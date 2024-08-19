@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). With this CRUD app, I used NextJS, Material UI, JavaScript, Firebase, and more to build a Pantry tracking app where users can add food items of their choice all formed as documents within a collection in a database (Firebase!). You can also remove and add items from your pantry, allowing the user to update their pantry and easily view available items as they use the app.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). With this CRUD app, I used NextJS, Material UI, JavaScript, Firebase, and more to build a Pantry tracking app where users can add food items of their choice all formed as documents within a collection in a database (Firebase). You can also remove and add items from your pantry, allowing the user to update their pantry and easily view available items as they use the app.
 
 ## Getting Started
 
