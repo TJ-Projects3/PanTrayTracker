@@ -1,4 +1,4 @@
-I used NextJS, Material UI, JavaScript, Firebase, and more to build a Pantry tracking app where users can add grocery items of their choice all formed as documents within a collection in a database (Firebase). You can also remove and add items from your pantry, allowing the user to update their pantry and easily view available items as they use the app.
+I used NextJS, Material UI, JavaScript, Firebase, and more to build a Pantry tracking app where users can add items of their choice (documents within a collection) in a database (Firebase). You can also remove and add items from your pantry, allowing the user to update their pantry and easily view available items as they use the app.
 
 ## Getting Started
 
