@@ -1,4 +1,4 @@
-I used NextJS, Material UI, JavaScript, Firebase, and more to build a Pantry tracking app where users can add items of their choice (documents within a collection) in a database (Firebase). You can also remove and add items from your pantry, allowing the user to update their pantry and easily view available items as they use the app.
+I used Next.js, Material UI, JavaScript, Firebase, Node.js, and more to build a Pantry tracking app where users can add items of their choice (documents in a collection) using Firebase. You can also remove and add items from your pantry, allowing the user to update their pantry and easily view available items as they use the app.
 
 ## Getting Started
 
@@ -21,11 +21,8 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+When users add items, you are prompted with a modal that asks for the name of that item. This item is then appended as a document in the Firestore database, and it will visible on screen.
+Delete items will remove the item from that database, and it will disappear on the front end.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
